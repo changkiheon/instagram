@@ -50,7 +50,7 @@
         <!--Home View Controller-->
         <scene sceneID="gPe-D5-qLB">
             <objects>
-                <viewController id="r0C-Vz-San" customClass="HomeViewController" sceneMemberID="viewController">
+                <viewController id="r0C-Vz-San" customClass="HomeViewController" customModule="Instagram" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="fOZ-uY-Lgg">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
